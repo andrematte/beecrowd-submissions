@@ -9,7 +9,7 @@ This is a work in progress, I try to solve the problems following the website's 
 
 
 
-1. **Beginner (in progress)**
+1. **[Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1) (in progress)**
 2. AD-HOC
 3. Strings
 4. Structures and Libraries
@@ -18,3 +18,4 @@ This is a work in progress, I try to solve the problems following the website's 
 7. Graphs
 8. Computational Geometry
 9. SQL
+
