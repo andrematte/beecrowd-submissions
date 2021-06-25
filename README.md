@@ -1,7 +1,7 @@
 # URI Online Judge Submissions
-This repository contains all my challenge submissions to [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt). 
+This repository contains all my coding challenges submited to [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt). 
 
-All the code is written in Python.
+Most of the code is written in Python.
 
 
 
