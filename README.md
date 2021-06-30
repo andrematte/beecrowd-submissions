@@ -1,5 +1,6 @@
 # URI Online Judge Submissions
 
+
 ![alt text](https://www.urionlinejudge.com.br/judge/img/5.0/logo.130615.png?1591503281)
 
 [URI Online Judge](https://www.urionlinejudge.com.br/judge/pt) is an online platform for competitive programming challenges.
@@ -10,7 +11,7 @@ Most of the code is written in Python.
 
 
 
-This is a work in progress, I try to solve the problems following the website's structure:
+This is a work in progress, I am solving the coding challenges by following the website's structure:
 
 
 
