@@ -23,5 +23,5 @@ This is a work in progress, I am solving the coding challenges by following the 
 6. Programming Paradigms
 7. Graphs
 8. Computational Geometry
-9. SQL
+9. **[SQL](https://www.urionlinejudge.com.br/judge/pt/problems/index/9) (in progress)**
 
