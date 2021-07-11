@@ -17,7 +17,7 @@ This is a work in progress, I am solving the coding challenges by following the 
 
 1. **[Beginner](https://www.urionlinejudge.com.br/judge/en/problems/index/1) (in progress)**
 2. AD-HOC
-3. Strings
+3. **[Strings](https://www.urionlinejudge.com.br/judge/pt/problems/index/3) (in progress)**
 4. Structures and Libraries
 5. Mathematics
 6. Programming Paradigms
