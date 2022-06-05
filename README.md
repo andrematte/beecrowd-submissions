@@ -4,7 +4,7 @@
 
 ## 💬 Description
 
-[Beecrowd](http://beecrowd.com.br/) is an online platform for competitive programming challenges (Former URI Online Judge.
+[Beecrowd](http://beecrowd.com.br/) is an online platform for competitive programming challenges (Former URI Online Judge).
 This repository contains all my coding challenges submited to Beecrowd. Most of the code is written in Python.
 
 This is a work in progress, I am solving the coding challenges by following the website's structure:
